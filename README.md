@@ -1,2 +1,2 @@
 # Welcome to my project page
-reop to store project pdfs
+repo to store project pdfs
